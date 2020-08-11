@@ -56,7 +56,7 @@ Tanking is not tolerated. Trading players away so that your roster is objectivel
 ## __Section II - League Dues__ ##
 
 ### Yearly Dues ###
-- After the first year there is a yearly fee of $25 to continue participating in the league.
+- After the first year there is a yearly fee of $20 to continue participating in the league.
 - Yearly dues must be paid, at minimum, a week before the rookie draft. 
 
 ### Penalties ###
