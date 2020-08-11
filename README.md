@@ -26,7 +26,7 @@
 - [Misc](#section-xi---misc)
 - [Acknowledgements](#section-xii---acknowledgements)
 - [Ammendments](#section-xiii---ammendments)
-- [COVID-19 Rules](#section-xiv---COVID19-Rules)
+- [COVID19 Rules](#section-xiv---COVID19-Rules)
 
 ## __Section I - League Governence__ ##
 
@@ -193,7 +193,7 @@ Thanks to Reddit user @DevtoneFreemon for the idea/skeleton for this README.
 
 ## __Section XIII - Ammendments__ ##
 
-## __Section XIV -- COVID19 Rules__ ##
+## __Section XIV - COVID19 Rules__ ##
 The 2020 season calls for special rulings due to the pandemic. 
     1. 10 NFL regular season games must be played to count as a full fantasy season. The final standings after week 10 will determine winners, and 2021's rookie draft order.
     2. If the season is cut short, prior to ten regular season games the 2020 dues will be rolled to 2021, and 2021's dues will be rolled to 2022. 
