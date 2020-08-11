@@ -26,7 +26,7 @@
 - [Misc](#section-xi---misc)
 - [Acknowledgements](#section-xii---acknowledgements)
 - [Ammendments](#section-xiii---ammendments)
-- [COVID Rules](#section-xiv---COVID-19-Rulings)
+- [COVID Rules](#section-xiv---COVID-19-Rules)
 
 ## __Section I - League Governence__ ##
 
