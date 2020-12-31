@@ -25,8 +25,6 @@
    - [Missing Teams](#missing-teams)
 - [Misc](#section-xi---misc)
 - [Acknowledgements](#section-xii---acknowledgements)
-- [Ammendments](#section-xiii---ammendments)
-- [COVID19 Rules](#section-xiv---COVID19-Rules)
 
 ## __Section I - League Governence__ ##
 
@@ -190,13 +188,3 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ## __Section XII - Acknowledgements__ ##
 Thanks to Reddit user @DevtoneFreemon for the idea/skeleton for this README.
-
-## __Section XIII - Ammendments__ ##
-
-## __Section XIV - COVID19 Rules__ ##
-The 2020 season calls for special rulings due to the pandemic. 
-    1. 10 NFL regular season games must be played to count as a full fantasy season. The final standings after week 10 will determine winners, and 2021's rookie draft order.
-    2. If the season is cut short, prior to ten regular season games the 2020 dues will be rolled to 2021, and 2021's dues will be rolled to 2022. 
-    3. There will be 2 additional IR spots, for a total of 4, during the 2020 season ONLY.
-    4. If the season is cut short the 2021 rookie draft order will be the inverse of Sleeper's potential points standings. 
-    
