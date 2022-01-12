@@ -115,7 +115,7 @@ If a team does not pay their dues by the designated payment date then they are n
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results.
-- Picks 1-8 will be assigned in inverse order of the regular season standings.
+- Picks 1-8 will be assigned in inverse order of the regular season potential points standings.
 - Picks 9-16 will be assigned in inverse order of the postseason standings
 
 ### Rookie Draft Settings ###
