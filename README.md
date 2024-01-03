@@ -116,11 +116,11 @@ If a team does not pay their dues by the designated payment date then they are n
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results.
 - Picks 1-8 will be assigned in inverse order of the regular season potential points standings.
-- Picks 9-16 will be assigned in inverse order of the postseason standings
+- Picks 9-16 will be assigned in inverse order of the postseason standings for finishers 1-4. The other remaining teams will have their draft order be assigned via inverse order of the regular season potential points standings. 
 
 ### Rookie Draft Settings ###
 - There will be 3 rounds for the rookie draft.
-- The rookie draft will take place a week after the NFL draft concludes (give, or take a few days, depending on how busy everyone is.)
+- The rookie draft will take place on May 4th.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, etc.)
 - The draft timer will run each day, from 8AM to 10PM EST with each team having 8 hours per pick.
 - Trading draft picks is allowed during the rookie draft
